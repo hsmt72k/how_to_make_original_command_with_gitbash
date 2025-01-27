@@ -1,0 +1,2 @@
+# how_to_make_original_command_with_gitbash
+GitBash で実行できるオリジナルコマンドを作成する方法
